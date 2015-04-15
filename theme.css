@@ -1,7 +1,16 @@
+/* Keep content above the footer */
 body {
   padding-bottom: 70px;
 }
 
+/* For links on the bottom navbar, so there's no blue highlight */
+.navbar-text > a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+/* For linking to anchors in the page */
 a.anchor {
   display: block;
   position: relative;
