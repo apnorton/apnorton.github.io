@@ -1,5 +1,6 @@
 /* Keep content above the footer */
 body {
+  padding-top: 30px;
   padding-bottom: 70px;
 }
 
