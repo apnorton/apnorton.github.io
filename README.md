@@ -4,5 +4,8 @@ My personal website.  I aim for this to be a way of advertising my projects, as 
 ##To do/project goals:
   - Create a dedicated "about me" page
   - Create resume page
-  - Integrate Twitter, YouTube, and a blog (perhaps no longer host on blogger) [Done except for blog]
-  - Create a "Projects" page [Done!]
+  - A blog (perhaps no longer host on blogger)
+
+## Things to investigate:
+  - The top-bar hides content when linked... perhaps make the nav bar fixed at top instead floating
+  - Can I use Django stuff on Github, or must I host it separately?
