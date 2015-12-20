@@ -4,7 +4,7 @@ https://keybase.io/apnorton
 
 I hereby claim:
 
-  * I am an admin of http://apnorton.com
+  * I am an admin of http://www.apnorton.com
   * I am apnorton (https://keybase.io/apnorton) on keybase.
   * I have a public key with fingerprint 773F B9C9 A32E 8CB0 FD43  0CFE 1BD7 8F8D 030E E72D
 
@@ -22,16 +22,16 @@ To do so, I am signing this object:
             "username": "apnorton"
         },
         "service": {
-            "hostname": "apnorton.com",
+            "hostname": "www.apnorton.com",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1450579060,
+    "ctime": 1450579491,
     "expire_in": 157680000,
-    "prev": "b308a921106aea1ad2b867fd3d94aa96a1acc1c06091015dff8a18b815e9dbde",
-    "seqno": 11,
+    "prev": "55ea034ab33d1a2f6b616858c81860c23610272d02b77893b2bb5fc2852e2686",
+    "seqno": 12,
     "tag": "signature"
 }
 
@@ -41,23 +41,23 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.49
 Comment: https://keybase.io/crypto
 
-yMIeAnicrVJfSBRBHL6rS1KQLMoiInUJEruOnd2d252rQFCSxDrQMgP1mNmZ9TZ1
-97xdz8wCqSiJwopSLIvoD/3HrKSHotTqoaSHSAKlEAJBo5fEkt6alXqJHpuXYb75
-vu/3/X78XmYu9GX421akRpbcvnbEPzLU3eyrTC132wRi01Yh0ibUs/mLNVDmuLF6
-kwoRQQQiMHQsaUARqR6WGYWqhiSVyERmEBqAKCrTKEJyWEGEMEiojgBWsCpjZBiK
-SoEkYiEoGKZVx5KJpGm53FZVZYMgHWFZYppORIMqsqgbDBCqaoZGRVlkTJUoF8Zt
-x1PwcAQ7LGTaHOOP2Hy8f/D/c+7meTuiS5gSKEGEgaxyrchDKwajAId1AyCP6LCk
-hRsZZ+OEZSdd2xIOBgWOpkydeYP1OvmLEdLtRq5NJG3X1u0G/hN33UTEE7qtCY/Z
-wkjst0eMmBblY+SCFEs6Ji8QAZypu6ZnChQoQhWJYTEosH0JM8lipseAalgT+fHK
-sJTXjCxqGEkAiGHMMMBUIlpYNahMkYIxCnNI14HOjRCfIqSGoWGgEQ1AhiihTPC6
-arJs7g14TlzHPR2zzsJuc5IJB4cHqwM+f4YvbdECb798GelZf7bu5uvFvlO9nR9X
-rV8X3/AzPpF3t+dH/5c7oa48f1laZMPpo2+qosfmCi9uRL3RbbAl04AHppd/nq3N
-fxq/sbL70FhgemDyw47KaHbueMflGsEfnfnq1LbfHcvp2N5UVNJ0ybn6fE3BvcMt
-6ZEXZx/fSAs4o0PlXTV9W8Gzb/4He5ceH6yaKt1bn/Mwu+3bc3i+YllOV/fbyVpY
-0r0fjg6eyLcCweE145uKR+SsubX7d74jPZsfDf6kt0ozs16F2seGi/s/zc3sDviF
-jFnYWbEnFF0dCsatnoGi69nfDSXeUN937v1sQXvr44mpqu/R+2dman7syr1ibmkv
-rD4pfiwvbLzwZEvZL02sOzs=
-=eNVZ
+yMInAnicrVJbSBRRGF5Ly2yzCLUe6mW62MOqc86Z65JStN0oIbptiLTMmTmj4+rM
+ODPuKms9mEFUQhejwOgqZUJKgUWCYXdIAl+iGyZEJGmCvURZVGeWeuux83I4//m+
+7//+j//hvJmBnIxUfmJofndna8bQvY6GwO5EwbIUgy2tiQmnmDhJX6RWI64Xixsa
+E2ZYwAJdVaAEOFZTBUQ0XpRkKGKEEeF5HWBOJJImy0jgZIwJjzVVBgqniEiRdZ0T
+NQBZhQkxumFWEcd2DNOjsqKIdCyrsoIgkVTM6hqHWFUnAGuipEsai1hCRKhRYrXl
++gxqDisuKTYsWqOPWNreP/D/2XdDWg6rUNEwD3lZAUikXJaa5nSiAUVQdSD7QJc4
+plJHKFqxTcvxLJPZF2JoNWGoxA/Wn+QPIplMFv9FFatWHeXbjuVZqlVLf6s9zw77
+ZK/JTqMJjv3RiWHD1GiUlJAgjmvQJmFAkapn+MKA41lelDkZhBjSaBsOiRk+ghcF
+iaXHb0MSVJLnicIiTsEI0RmgLmABCBIvqRKQBFaFSAAspIGyEIs0OIQhxryuQomH
+BAqSwPiT1ZsW1YbUp1JFNV2jylS8Bocw++4PVmYGMnICs7Jm+DsWyJmz4O/mTcRn
+/1yV2n7kkPc5ONnmzqr93J1XGN3S1TWm72o7Pm9qs3lxwdzho1l3yOHCmuUPsneA
+9S2LX4V7pEvR6KPbP/iJvvcjBXcr3ra1XjtY9+GC9W64NXfdDOdGcOro2cLIxKJT
+zaXVm389zZxMnsg7/bVa6Cg5X/F8YOvVx4lmYX9PS7C+sePnwnImiAbebGCbtyxp
+rxq2H4wmS1ZHIgPlKDJ2e8qt7K05UFa0/0vuxj2b2oXuL3tvdT3uWjF97dNLnLmU
+64vDbcfa86fWiWfM1+e+e3a/VNH/ZHw89LFox85M99Se3s6bo1dXRrUrNdfL6oZK
+24d3vliy+NngyMmWO8HLa9d8m87+DaeFQRM=
+=RLyR
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
