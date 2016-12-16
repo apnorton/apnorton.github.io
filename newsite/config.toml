@@ -1,0 +1,34 @@
+baseurl = "http://www.apnorton.com/newsite/"
+title = "apnorton"
+languageCode = "en-us"
+
+[params]
+  author         = "Andrew Norton"
+  sidebartitle   = "apnorton"
+  sidebartagline = "Programmer, robotics hobbyist, and math enthusiast."
+  sidebarphoto   = "/img/logo_lg.png"
+
+[[menu.main]]
+  name = "Blog"
+  url  = "/posts"
+
+[[menu.social]]
+  pre = "<em class='fa fa-key'></em>"
+  url = "https://keybase.io/apnorton"
+  identifier = "1_keybase"
+
+[[menu.social]]
+  pre = "<em class='fa fa-github'></em>"
+  url = "https://www.github.com/apnorton"
+  identifier = "2_github"
+
+[[menu.social]]
+  pre = "<em class='fa fa-twitter'></em>"
+  url = "https://www.twitter.com/_apnorton"
+  identifier = "3_twitter"
+
+[[menu.social]]
+  pre = "<em class='fa fa-youtube-play'></em>"
+  url = "https://www.youtube.com/c/apnortonCS"
+  identifier = "4_youtube"
+
