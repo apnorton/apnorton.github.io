@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>apnorton : projects</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap theme -->
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
+    <!-- Font Awesome for icons -->
+    <link href="./font-awesome/css/font-awesome.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="theme.css" rel="stylesheet">
+
+    <script src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body role="document">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W8DVTJ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W8DVTJ');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">apnorton</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="http://www.apnorton.com/blog/">Blog</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container" role="main">
+
+      <div class="page-header">
+        <h1>Project Index</h1>
+      </div>
+
+      <p>Below is a listing of any projects on which I'm currently working with links to more information.  I'm still working on compiling this list, so some projects aren't listed yet.</p>
+
+      <div class="media panel panel-default">
+        <div class="panel-body">
+          <div class="media-left">
+            <img class="media-object" src="img/projects/mathse-book.jpg" alt="Book photo">
+          </div>
+          <div class="media-body">
+            <a name="mathse-book"></a>
+            <h4 class="media-heading">Book of Math.SE Contributions</h4>
+            <p>For the past several years, I have been quite active on the <a href="http://stackexchange.com/">StackExchange</a> family of Q&amp;A sites.  On their mathematics site, I've answered nearly 450 questions on topics ranging from arithmetic and logic to differential equations and abstract algebra.  Although my user profile on StackExchange provides easy access to all of my answers, I thought it would be nice to have a physical copy of my work.  Thus, I downloaded all of my answers (and the questions associated with them) and compiled them into a 464-page PDF.  I then sent this PDF to be printed in a hardback book by <a href="http://www.lulu.com">Lulu.com</a>.</p>
+            <p>For a brief overview of my process, I downloaded all of my question data using the StackExchange <a href="http://data.stackexchange.com/">Data Explorer</a>.  Then, I used a couple of Python scripts to convert the HTML-formatted text into multiple LaTeX files with custom environments.  I sorted these files by question tag and sub-topic, then used the &quot;subfiles&quot; package to combine them into a single PDF.  I may someday publish the code I used so others may create books of their own StackExchange answers, but it requires considerable cleanup.  Thus, for now, I have not uploaded it to GitHub.</p>
+          </div>
+        </div>
+      </div>
+      <div class="media panel panel-default">
+        <div class="panel-body">
+          <div class="media-left">
+            <a href="https://github.com/apnorton/ite-camp/">
+              <img class="media-object" src="img/projects/competition-board.jpg" alt="Competition board">
+            </a>
+          </div>
+          <div class="media-body">
+            <a name="uva-camp-robot"></a>
+            <h4 class="media-heading">Robotics Projects at UVa Camps</h4>
+            <p>I developed and led two robotics-focused sections for the Center for Diversity in Engineering at UVa's Introduction to Engineering camp and the Abemarle High School <em>Summer Scholars STEM Program</em>.  The Introduction to Engineering (ITE) camp needed an extended, interdisciplinary engineering design activity that would culminate in a camp-wide competition involving the strength of the design and a verbal presentation by each group.  The Summer Scholars STEM Program (SSSP) needed a two-week section that taught engineering design principles through the medium of robotics.  I developed a custom lesson plan and schedule for both programs and acted as primary instructor. </p>
+            <p>In both programs, we used the LEGO Mindstorms NXT kit to build and program robots to participate in a race around a two-foot by four-foot track.  Participants learned about navigation strategies, sensor usage, and the tradeoffs between speed and accuracy. </p>
+            <p>All of the resources used during the ITE camp may be found on <a href="https://github.com/apnorton/ite-camp/">GitHub</a>.  I intend to polish the current documentation so the camp could be adapted for other audiences. </p>
+            <p>Two Charlottesville news stations came to the last week of the SSSP to conduct interviews and record video.  The stories may be found at these links on the <a href="http://www.nbc29.com/category/175568/video-landing-page?clipId=11698988&autostart=true" target="_blank">NBC19</a> and <a href="http://www.newsplex.com/home/headlines/Student-Showcase-Creativity-during--317911641.html" target="_blank">Newsplex</a> websites.  I worked with the students exclusively on the LEGO robotics project, not the literature or cardboard chair projects that were also demonstrated.</p>
+          </div>
+        </div>
+      </div>
+      <div class="media panel panel-default">
+        <div class="panel-body">
+          <div class="media-left">
+            <a href="https://github.com/apnorton/tsp-art">
+              <img class="media-object" src="img/projects/tsp-smile-final.jpg" alt="TSP Smile">
+            </a>
+          </div>
+          <div class="media-body">
+            <a name="tsp-art"></a>
+            <h4 class="media-heading">TSP Art</h4>
+            <p>This is (essentially) my final project for CS Theory (CS 3102) at UVa.  The goal was to write an approximation for an NP-complete problem; I chose the Travelling Salesman with a particular application to creating <a href="http://www.oberlin.edu/math/faculty/bosch/tspart-page.html">"TSP Art"</a>.  My reasoning was that this project, moreso than others, lent itself to the creation of easily understood diagrams that even my non-technical friends could appreciate.</p>
+
+            <p>The most up-to-date description of this project can be found in the README for my <a href="https://github.com/apnorton/tsp-art">tsp-art</a> GitHub repository.</p>
+
+          </div>
+        </div>
+      </div>
+    </div> <!-- /container -->
+
+    <div class="navbar navbar-default navbar-fixed-bottom">
+      <div class="container">
+        <div class="navbar-text pull-left">
+          <p>&copy; 2015 Andrew Norton</p>
+        </div>
+
+        <div class="navbar-text pull-right">
+          <a href="https://github.com/apnorton/"><i class="fa fa-github-square fa-2x"></i></a>
+          <a href="http://www.twitter.com/_apnorton"><i class="fa fa-twitter-square fa-2x"></i></a>
+          <a href="https://www.youtube.com/c/apnortonCS"><i class="fa fa-youtube-square fa-2x"></i></a>
+          <a href="https://plus.google.com/+ApnortonCS/"><i class="fa fa-google-plus-square fa-2x"></i></a>
+          <a href="https://www.linkedin.com/in/apnortonCS"><i class="fa fa-linkedin-square fa-2x"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
